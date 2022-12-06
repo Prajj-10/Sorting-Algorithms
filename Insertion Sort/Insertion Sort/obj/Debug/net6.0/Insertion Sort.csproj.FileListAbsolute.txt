@@ -1,0 +1,15 @@
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\bin\Debug\net6.0\Insertion Sort.exe
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\bin\Debug\net6.0\Insertion Sort.deps.json
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\bin\Debug\net6.0\Insertion Sort.runtimeconfig.json
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\bin\Debug\net6.0\Insertion Sort.dll
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\bin\Debug\net6.0\Insertion Sort.pdb
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.AssemblyInfo.cs
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.dll
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\refint\Insertion Sort.dll
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.pdb
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\Insertion Sort.genruntimeconfig.cache
+C:\Users\prajj\source\Sorting Algorithms\Insertion Sort\Insertion Sort\obj\Debug\net6.0\ref\Insertion Sort.dll
